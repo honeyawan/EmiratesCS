@@ -13,6 +13,7 @@
 		BE81F7702030098500170739 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE81F76F2030098500170739 /* Assets.xcassets */; };
 		BE81F7732030098500170739 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE81F7712030098500170739 /* LaunchScreen.storyboard */; };
 		BE81F77E2030098600170739 /* EmiratesCSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81F77D2030098600170739 /* EmiratesCSTests.swift */; };
+		BE81F7892030204500170739 /* BowlingScrorer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE81F7882030204500170739 /* BowlingScrorer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		BE81F7792030098600170739 /* EmiratesCSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EmiratesCSTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE81F77D2030098600170739 /* EmiratesCSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmiratesCSTests.swift; sourceTree = "<group>"; };
 		BE81F77F2030098600170739 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE81F7882030204500170739 /* BowlingScrorer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BowlingScrorer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				BE81F7682030098500170739 /* AppDelegate.swift */,
 				BE81F76A2030098500170739 /* ViewController.swift */,
+				BE81F7882030204500170739 /* BowlingScrorer.swift */,
 				BE81F76C2030098500170739 /* Main.storyboard */,
 				BE81F76F2030098500170739 /* Assets.xcassets */,
 				BE81F7712030098500170739 /* LaunchScreen.storyboard */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE81F76B2030098500170739 /* ViewController.swift in Sources */,
+				BE81F7892030204500170739 /* BowlingScrorer.swift in Sources */,
 				BE81F7692030098500170739 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
